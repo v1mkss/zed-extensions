@@ -334,6 +334,10 @@
 	path = extensions/fish
 	url = https://github.com/hasit/zed-fish.git
 
+[submodule "extensions/flat-theme"]
+	path = extensions/flat-theme
+	url = https://github.com/biaqat/flat-theme-zed.git
+
 [submodule "extensions/fleet-themes"]
 	path = extensions/fleet-themes
 	url = https://github.com/skarline/zed-fleet-themes.git
@@ -646,6 +650,10 @@
 	path = extensions/modest-dark
 	url = https://github.com/timcole/modest-dark.git
 
+[submodule "extensions/monokai-reversed"]
+	path = extensions/monokai-reversed
+	url = https://github.com/everdrone/zed-monokai-reversed
+
 [submodule "extensions/monolith"]
 	path = extensions/monolith
 	url = https://github.com/someone13574/zed-monolith-theme.git
@@ -754,6 +762,10 @@
 	path = extensions/odin
 	url = https://github.com/clseibold/zed-odin
 
+[submodule "extensions/oh-lucy"]
+	path = extensions/oh-lucy
+	url = https://github.com/abdurrehman0206/Oh-Lucy.git
+
 [submodule "extensions/one-dark-darkened"]
 	path = extensions/one-dark-darkened
 	url = https://github.com/pavles6/one-dark-darkened
@@ -781,6 +793,10 @@
 [submodule "extensions/outrun"]
 	path = extensions/outrun
 	url = https://github.com/Acepie/OutrunZedTheme.git
+
+[submodule "extensions/oxc"]
+	path = extensions/oxc
+	url = https://github.com/suxiaoshao/zed-oxc.git
 
 [submodule "extensions/oxocarbon"]
 	path = extensions/oxocarbon
@@ -929,6 +945,10 @@
 [submodule "extensions/simple-darker"]
 	path = extensions/simple-darker
 	url = https://github.com/DP19/zed-theme-simple-darker.git
+
+[submodule "extensions/simula"]
+	path = extensions/simula
+	url = https://github.com/eirslett/simula-zed-extension
 
 [submodule "extensions/siri"]
 	path = extensions/siri
